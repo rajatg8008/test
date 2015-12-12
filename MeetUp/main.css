@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header, #banner {
+	background-color: #f7f7f7;
+	Fount-weight: bold;
+	position: absolute;
+	z-index: 5;
+	top: 0;
+	
+
+}
+
+body
+{ font: normal 80% Arial, Helvetica, sans-serif;
+  background: #dfe3ee;
+  color: #000;
+}
+
